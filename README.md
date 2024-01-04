@@ -23,3 +23,5 @@ A multi-vendor marketplace is an online store that facilitates the sale of produ
 **Face recognition attendance system using python opencv**
 
 The face recognition system can be built using Python programming language and popular libraries such as OpenCV and face recognition. Once the face recognition model is built, it can be integrated with an attendance system using Python programming and database management tools.
+
+Email:naveens6336@gmail.com
