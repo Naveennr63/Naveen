@@ -3,7 +3,7 @@ I'm Naveen kumar, a recent graduate with a passion for coding and technology.
 
 **Skills**
 
-Languages: Python,java
+Languages: Python
 
 Web Development: HTML, CSS,Django
 
