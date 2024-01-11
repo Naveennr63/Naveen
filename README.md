@@ -1,7 +1,7 @@
 
 I'm Naveen kumar, a recent graduate with a passion for coding and technology.
 
-**Skills**
+**Skills** 
 
 Languages: Python
 
